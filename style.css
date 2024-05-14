@@ -1,0 +1,15 @@
+
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    border: 2px solid #c3bfbf; /* Border color and width */
+    border-radius: 10px; /* Rounded corners */
+    height: 100%vh;
+}
+  img{
+    max-width: 80%; /* Ensures the GIF won't exceed its container's width */
+    height: auto; /* Allows the height to adjust proportionally */
+    display: block; /* Ensures the image behaves as a block element */
+    margin: 0 auto; /* Centers the image horizontally */
+  }
